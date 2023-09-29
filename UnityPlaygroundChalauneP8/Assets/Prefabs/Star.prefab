@@ -98,7 +98,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dde7269c73c0d4a0aa7d33419579c17d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pointsWorth: 2
+  pointsWorth: 1
 --- !u!60 &6708390188959017405
 PolygonCollider2D:
   m_ObjectHideFlags: 0
